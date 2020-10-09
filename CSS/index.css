@@ -1,0 +1,16 @@
+body{
+    background-image: url('../Images/pizza3.jpg');
+    text-align: center;
+    align-content: center;
+}
+fieldset{
+    background-color: white;
+}
+legend{
+    font-size: larger;
+}
+h1{
+    font-size: 70px;
+    stroke:double white;
+    stroke-width: 5px;
+}
